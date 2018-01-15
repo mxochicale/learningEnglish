@@ -16,7 +16,7 @@ You hear part of a discussion about keeping mementos and things from the past.
 - 2. What do both speakers think about the past?
 	- A. Some things are only significant for those directly involved.
 	- B. People need to feel a link to their ancestors.
-	- C. It's essential to help older relatives retain their memories.
+	- C. It is essential to help older relatives retain their memories.
 
 Extract 2
 You hear part of a radio discussion about the role of museums in modern life.
@@ -41,8 +41,25 @@ Extract 3. You hear two people talking about a historical film they have seen.
 
 
 
+## New expression from the audio:
+* being coersed -- being forced
+* kinesthetic learing -- is a learning style in which learning takes place 
+by the students carrying out physical activities.
+* can ill afford -- used for saying that someone should definitely not do something because it will cause problems.
+* cop out -- avoid doing something
+
+
+# Speaking
+
+1. Look at the pictures. They show people recording 
+events and information for the future. Compare two 
+of the pictures and say why these records might be
+important to people in the future and how accurate 
+the recording needs to be.
+
+
+2. Listen to a candidate doing the task. [audio](https://www.youtube.com/embed/rys1tH1alQs)
 
 
 
 [audio source](https://www.english.com/goldadvanced/goldadvanced.html?page=maximiser)
-
